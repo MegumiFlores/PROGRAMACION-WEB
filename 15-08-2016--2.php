@@ -46,3 +46,5 @@
 	?>
 	</body>
 </html>
+<!-- goo.gl/XpqeGH -->
+<!-- https://gist.github.com/docenteunitek/26168871faedfe3aee1225ea05f24d96 -->
